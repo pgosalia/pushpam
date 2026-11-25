@@ -1,0 +1,17 @@
+{
+  "_note": "MOCK DATA. Replace by editing this file daily, or set NEXT_PUBLIC_RATES_API_URL to a live endpoint returning this same shape (see lib/rates.ts). Values are INR per gram.",
+  "source": "Sample data",
+  "updatedAt": "2026-11-24T10:30:00+05:30",
+  "gold": { "24K": 13450, "22K": 12330, "18K": 10090 },
+  "silver": { "999": 185 },
+  "previousClose": { "24K": 13380, "22K": 12265, "18K": 10035, "silver": 183 },
+  "history": [
+    { "date": "2026-11-18", "24K": 13210, "22K": 12110, "18K": 9910, "silver": 180 },
+    { "date": "2026-11-19", "24K": 13260, "22K": 12155, "18K": 9945, "silver": 181 },
+    { "date": "2026-11-20", "24K": 13300, "22K": 12190, "18K": 9975, "silver": 181 },
+    { "date": "2026-11-21", "24K": 13340, "22K": 12230, "18K": 10005, "silver": 182 },
+    { "date": "2026-11-22", "24K": 13350, "22K": 12237, "18K": 10012, "silver": 182 },
+    { "date": "2026-11-23", "24K": 13380, "22K": 12265, "18K": 10035, "silver": 183 },
+    { "date": "2026-11-24", "24K": 13450, "22K": 12330, "18K": 10090, "silver": 185 }
+  ]
+}

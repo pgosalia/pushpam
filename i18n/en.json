@@ -1,0 +1,155 @@
+{
+  "lang": { "name": "English", "short": "EN", "htmlLang": "en" },
+  "skip": "Skip to main content",
+  "nav": {
+    "home": "Home",
+    "collections": "Collections",
+    "bridal": "Bridal & Custom",
+    "story": "Our Story",
+    "goldRate": "Gold Rate & FAQs",
+    "visit": "Visit Us",
+    "menu": "Menu",
+    "close": "Close",
+    "primary": "Primary",
+    "language": "Language"
+  },
+  "cta": {
+    "visitStore": "Visit Store",
+    "whatsapp": "WhatsApp Us",
+    "enquire": "Enquire on WhatsApp",
+    "viewAll": "View all",
+    "viewCollection": "View collection",
+    "bookAppointment": "Book an appointment",
+    "getDirections": "Get directions",
+    "call": "Call us",
+    "learnMore": "View details",
+    "dismiss": "Dismiss announcement",
+    "fullRates": "Full rate page"
+  },
+  "announce": {
+    "dhanteras": "Dhanteras at Pushpam: gold coins, silver and new designs, in store now.",
+    "akshaya-tritiya": "Akshaya Tritiya: an auspicious day to buy gold. Visit us or book a viewing.",
+    "wedding-season": "Wedding season: book your bridal consultation early."
+  },
+  "hero": {
+    "eyebrow": "Ahmedabad · Since {year}",
+    "title": "Gold for the days your family remembers.",
+    "subtitle": "Gold, diamond, polki and kundan jewellery for weddings, festivals and every day. Hallmarked, honestly priced, and chosen together as a family."
+  },
+  "rates": {
+    "heading": "Today's rates",
+    "gold24": "24K gold",
+    "gold22": "22K gold",
+    "gold18": "18K gold",
+    "silver": "Silver",
+    "perGram": "per gram",
+    "updated": "Updated {time}",
+    "sample": "Sample rates for the mockup"
+  },
+  "collections": {
+    "heading": "Our collections",
+    "sub": "Seven ways into the shop. Start with the occasion, and we will take it from there.",
+    "bridal": { "name": "Bridal", "blurb": "Rani haars, temple sets, nath and maang tikka. Pieces a family remembers for generations." },
+    "diamond": { "name": "Diamond", "blurb": "Solitaires, tennis bracelets and everyday studs. Certified stones, set in 18K and 22K." },
+    "gold": { "name": "Gold", "blurb": "22K chains, bangles, rings and everyday pieces in classic Gujarati patterns." },
+    "polki-kundan": { "name": "Polki & Kundan", "blurb": "Uncut diamonds and hand-set kundan with meenakari backs. Rajasthani craft, Ahmedabad finish." },
+    "silver": { "name": "Silver", "blurb": "Payals, pooja articles and gifting silver. 925 sterling and fine silver." },
+    "mens": { "name": "Men's", "blurb": "Chains, kadas, rings and groom's sets. Solid, understated, made to be worn daily." },
+    "kids": { "name": "Kids", "blurb": "Baby bangles, nazariya charms and first-gold gifts for naming and annaprashan ceremonies." }
+  },
+  "arrivals": {
+    "heading": "New arrivals",
+    "sub": "Fresh from our workshop this season.",
+    "prev": "Previous pieces",
+    "next": "Next pieces",
+    "label": "New arrivals carousel"
+  },
+  "trust": {
+    "heading": "Why families choose Pushpam",
+    "bis": { "title": "BIS Hallmark", "text": "Hallmarked gold, with a verifiable HUID on every piece." },
+    "diamonds": { "title": "Certified diamonds", "text": "IGI and GIA grading reports for solitaires and larger stones." },
+    "buyback": { "title": "Buyback & exchange", "text": "Old gold weighed in front of you and valued at the day's rate." },
+    "legacy": { "title": "{years} years of legacy", "text": "Serving Ahmedabad families since {year}." }
+  },
+  "services": {
+    "heading": "Weddings, planned together",
+    "sub": "From the first sketch to the final fitting, we plan your bridal jewellery around your family and your outfit.",
+    "custom": { "title": "Custom orders", "text": "Bring a picture, a sketch or an old piece. We will make it in gold." },
+    "consult": { "title": "Bridal consultations", "text": "A private hour with a designer, with room for the whole family." },
+    "link": "How custom design works"
+  },
+  "testimonials": { "heading": "Kind words" },
+  "gallery": { "heading": "From the shop floor", "sub": "Pieces on the tray this week.", "follow": "Follow {handle} on Instagram" },
+  "visit": {
+    "heading": "Visit the store",
+    "sub": "Come with the whole family. We will keep the chai ready.",
+    "address": "Address",
+    "hours": "Opening hours",
+    "phone": "Phone",
+    "map": "Map showing the Pushpam Jewellers store location"
+  },
+  "footer": {
+    "tagline": "Gold, diamond and bridal jewellery in Ahmedabad.",
+    "explore": "Explore",
+    "contact": "Contact",
+    "hours": "Hours",
+    "rights": "© {year} Pushpam Jewellers. All rights reserved.",
+    "gst": "Every purchase comes with a GST-compliant bill.",
+    "disclaimer": "Prices are indicative. Final price depends on the day's gold rate, making charges and GST."
+  },
+  "filters": {
+    "title": "Filters",
+    "show": "Show filters",
+    "hide": "Hide filters",
+    "category": "Category",
+    "metal": "Metal",
+    "purity": "Purity",
+    "occasion": "Occasion",
+    "weight": "Weight",
+    "all": "All",
+    "clear": "Clear all",
+    "count": "{n} pieces",
+    "count1": "1 piece",
+    "none": "Nothing matches these filters. Try clearing one, or ask us on WhatsApp about a custom piece."
+  },
+  "cat": {
+    "set": "Sets", "necklace": "Necklaces", "earrings": "Earrings", "bangles": "Bangles & kadas", "ring": "Rings",
+    "pendant": "Pendants", "chain": "Chains", "mangalsutra": "Mangalsutra", "bracelet": "Bracelets", "anklet": "Anklets", "other": "Other"
+  },
+  "metal": { "gold": "Gold", "silver": "Silver", "platinum": "Platinum" },
+  "occ": { "wedding": "Wedding", "festive": "Festive", "everyday": "Everyday", "gifting": "Gifting" },
+  "wt": { "w1": "Under 10 g", "w2": "10 to 25 g", "w3": "25 to 50 g", "w4": "50 g and above" },
+  "product": {
+    "priceOnRequest": "Price on request",
+    "approxWeight": "About {w} g",
+    "indicative": "Indicative from",
+    "related": "You may also like",
+    "specs": "Details",
+    "sku": "Design code",
+    "metal": "Metal",
+    "purity": "Purity",
+    "gross": "Gross weight",
+    "net": "Net weight",
+    "stones": "Stone details",
+    "cert": "Certification",
+    "occasion": "Occasion",
+    "zoom": "Zoom image",
+    "closeZoom": "Close zoomed image",
+    "thumb": "Show image {n}",
+    "new": "New"
+  },
+  "form": {
+    "name": "Your name",
+    "phone": "Phone number",
+    "date": "Preferred date",
+    "purpose": "What are you looking for?",
+    "purposes": { "bridal": "Bridal jewellery", "custom": "A custom piece", "diamond": "Diamond jewellery", "gift": "A gift", "exchange": "Gold exchange or buyback", "other": "Something else" },
+    "message": "Anything we should know?",
+    "submit": "Request appointment",
+    "sending": "Sending…",
+    "success": "Thank you. We will call you shortly to confirm your appointment.",
+    "fallback": "We have opened WhatsApp with your request. Press send there to finish.",
+    "error": "Something went wrong. Please try WhatsApp or call us.",
+    "required": "required"
+  }
+}

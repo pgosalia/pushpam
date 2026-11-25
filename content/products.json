@@ -1,0 +1,740 @@
+[
+  {
+    "sku": "PJ-BR-001",
+    "slug": "rani-haar-bridal-necklace-set",
+    "name": "Rani Haar Bridal Necklace Set",
+    "collection": "bridal",
+    "category": "set",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding"
+    ],
+    "grossWeight": 118.4,
+    "netWeight": 112.9,
+    "stones": "Ruby and emerald drops, freshwater pearl strings",
+    "certification": "BIS hallmarked",
+    "description": "A long rani haar with a matching pair of jhumkas, worked in layers of fine gold beads and finished with ruby and emerald drops. Made to sit over a heavy silk saree without bunching.",
+    "motif": "haar",
+    "tone": "maroon",
+    "images": [
+      "/images/products/rani-haar-bridal-necklace-set-1.svg",
+      "/images/products/rani-haar-bridal-necklace-set-2.svg",
+      "/images/products/rani-haar-bridal-necklace-set-3.svg"
+    ],
+    "isNew": true
+  },
+  {
+    "sku": "PJ-BR-002",
+    "slug": "temple-lakshmi-choker",
+    "name": "Temple Lakshmi Choker",
+    "collection": "bridal",
+    "category": "necklace",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding",
+      "festive"
+    ],
+    "grossWeight": 46.2,
+    "netWeight": 44.8,
+    "stones": "Ruby, emerald and pearl accents",
+    "certification": "BIS hallmarked",
+    "description": "A close-fitting temple choker with a raised Lakshmi motif and a fringe of tiny gold beads. A classic that pairs well with a rani haar or stands alone.",
+    "motif": "choker",
+    "tone": "maroon",
+    "images": [
+      "/images/products/temple-lakshmi-choker-1.svg",
+      "/images/products/temple-lakshmi-choker-2.svg",
+      "/images/products/temple-lakshmi-choker-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-BR-003",
+    "slug": "peacock-jhumka-earrings",
+    "name": "Peacock Jhumka Earrings",
+    "collection": "bridal",
+    "category": "earrings",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding",
+      "festive"
+    ],
+    "grossWeight": 18.6,
+    "netWeight": 17.9,
+    "stones": "Ruby and pearl drops",
+    "certification": "BIS hallmarked",
+    "description": "Peacock-crowned jhumkas with a domed top, a bell body and a cluster of pearl drops. Light enough to wear through a long wedding day.",
+    "motif": "jhumka",
+    "tone": "maroon",
+    "images": [
+      "/images/products/peacock-jhumka-earrings-1.svg",
+      "/images/products/peacock-jhumka-earrings-2.svg",
+      "/images/products/peacock-jhumka-earrings-3.svg"
+    ],
+    "isNew": true
+  },
+  {
+    "sku": "PJ-BR-004",
+    "slug": "maang-tikka-with-pearl-drop",
+    "name": "Maang Tikka with Pearl Drop",
+    "collection": "bridal",
+    "category": "pendant",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding"
+    ],
+    "grossWeight": 9.8,
+    "netWeight": 9.2,
+    "stones": "Single pearl drop, tiny ruby points",
+    "certification": "BIS hallmarked",
+    "description": "A fine maang tikka with a scalloped crest and a single pearl drop. Comes with a hair chain and a hook that stays put.",
+    "motif": "tikka",
+    "tone": "maroon",
+    "images": [
+      "/images/products/maang-tikka-with-pearl-drop-1.svg",
+      "/images/products/maang-tikka-with-pearl-drop-2.svg",
+      "/images/products/maang-tikka-with-pearl-drop-3.svg"
+    ],
+    "approxPrice": 125000
+  },
+  {
+    "sku": "PJ-BR-005",
+    "slug": "bridal-kada-pair-with-carved-floral-work",
+    "name": "Bridal Kada Pair with Carved Floral Work",
+    "collection": "bridal",
+    "category": "bangles",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding"
+    ],
+    "grossWeight": 64,
+    "netWeight": 63,
+    "stones": "None. Hand-carved gold",
+    "certification": "BIS hallmarked",
+    "description": "A pair of broad kadas carved with a lotus vine. Available in two or three sizes, and made to order to fit your wrist.",
+    "motif": "kada",
+    "tone": "maroon",
+    "images": [
+      "/images/products/bridal-kada-pair-with-carved-floral-work-1.svg",
+      "/images/products/bridal-kada-pair-with-carved-floral-work-2.svg",
+      "/images/products/bridal-kada-pair-with-carved-floral-work-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-DI-001",
+    "slug": "round-brilliant-solitaire-ring",
+    "name": "Round Brilliant Solitaire Ring",
+    "collection": "diamond",
+    "category": "ring",
+    "metal": "gold",
+    "purity": "18K",
+    "occasions": [
+      "wedding",
+      "gifting"
+    ],
+    "grossWeight": 3.6,
+    "netWeight": 3.4,
+    "stones": "Round brilliant solitaire, 0.50 ct (F-G, VS) [CONFIRM WITH CLIENT]",
+    "certification": "IGI certified [CONFIRM WITH CLIENT]",
+    "description": "Four-claw solitaire in 18K gold, set low so it does not catch on a dupatta. Certificate supplied with the ring.",
+    "motif": "ring-solitaire",
+    "tone": "ink",
+    "images": [
+      "/images/products/round-brilliant-solitaire-ring-1.svg",
+      "/images/products/round-brilliant-solitaire-ring-2.svg",
+      "/images/products/round-brilliant-solitaire-ring-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-DI-002",
+    "slug": "diamond-tennis-bracelet",
+    "name": "Diamond Tennis Bracelet",
+    "collection": "diamond",
+    "category": "bracelet",
+    "metal": "gold",
+    "purity": "18K",
+    "occasions": [
+      "gifting",
+      "wedding"
+    ],
+    "grossWeight": 11.2,
+    "netWeight": 10.4,
+    "stones": "Round diamonds, about 2.4 ct total [CONFIRM WITH CLIENT]",
+    "certification": "IGI certified [CONFIRM WITH CLIENT]",
+    "description": "A continuous line of matched diamonds on a flexible 18K setting, with a safety clasp. Equally good with a saree or a suit.",
+    "motif": "bracelet-tennis",
+    "tone": "ink",
+    "images": [
+      "/images/products/diamond-tennis-bracelet-1.svg",
+      "/images/products/diamond-tennis-bracelet-2.svg",
+      "/images/products/diamond-tennis-bracelet-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-DI-003",
+    "slug": "diamond-stud-earrings",
+    "name": "Diamond Stud Earrings",
+    "collection": "diamond",
+    "category": "earrings",
+    "metal": "gold",
+    "purity": "18K",
+    "occasions": [
+      "everyday",
+      "gifting"
+    ],
+    "grossWeight": 2.8,
+    "netWeight": 2.5,
+    "stones": "Round diamonds, about 0.60 ct total [CONFIRM WITH CLIENT]",
+    "certification": "IGI certified [CONFIRM WITH CLIENT]",
+    "description": "Everyday studs with screw-back closures. A first diamond gift that stays useful for decades.",
+    "motif": "studs",
+    "tone": "ink",
+    "images": [
+      "/images/products/diamond-stud-earrings-1.svg",
+      "/images/products/diamond-stud-earrings-2.svg",
+      "/images/products/diamond-stud-earrings-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-DI-004",
+    "slug": "floral-diamond-pendant-with-chain",
+    "name": "Floral Diamond Pendant with Chain",
+    "collection": "diamond",
+    "category": "pendant",
+    "metal": "gold",
+    "purity": "18K",
+    "occasions": [
+      "everyday",
+      "gifting"
+    ],
+    "grossWeight": 5.4,
+    "netWeight": 4.9,
+    "stones": "Round diamonds in a floral cluster",
+    "certification": "Hallmarked [CONFIRM WITH CLIENT]",
+    "description": "A small cluster pendant on a fine 18K chain. Light, bright and easy to wear to the office or to dinner.",
+    "motif": "pendant",
+    "tone": "ink",
+    "images": [
+      "/images/products/floral-diamond-pendant-with-chain-1.svg",
+      "/images/products/floral-diamond-pendant-with-chain-2.svg",
+      "/images/products/floral-diamond-pendant-with-chain-3.svg"
+    ],
+    "isNew": true,
+    "approxPrice": 38000
+  },
+  {
+    "sku": "PJ-DI-005",
+    "slug": "diamond-mangalsutra",
+    "name": "Diamond Mangalsutra",
+    "collection": "diamond",
+    "category": "mangalsutra",
+    "metal": "gold",
+    "purity": "18K",
+    "occasions": [
+      "wedding",
+      "everyday"
+    ],
+    "grossWeight": 9.6,
+    "netWeight": 8.2,
+    "stones": "Diamonds, black glass beads",
+    "certification": "Hallmarked [CONFIRM WITH CLIENT]",
+    "description": "A modern mangalsutra with a diamond-set pendant and two strands of black beads. Short enough for daily wear, special enough for a gift.",
+    "motif": "mangalsutra",
+    "tone": "ink",
+    "images": [
+      "/images/products/diamond-mangalsutra-1.svg",
+      "/images/products/diamond-mangalsutra-2.svg",
+      "/images/products/diamond-mangalsutra-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-DI-006",
+    "slug": "platinum-and-diamond-band",
+    "name": "Platinum and Diamond Band",
+    "collection": "diamond",
+    "category": "ring",
+    "metal": "platinum",
+    "purity": "950",
+    "occasions": [
+      "wedding",
+      "gifting"
+    ],
+    "grossWeight": 9.8,
+    "netWeight": 9.8,
+    "stones": "Channel-set diamonds [CONFIRM WITH CLIENT]",
+    "certification": "Pt950 hallmark [CONFIRM WITH CLIENT]",
+    "description": "A slim platinum band with a row of channel-set diamonds. Stocked on request. [CONFIRM WITH CLIENT]",
+    "motif": "band",
+    "tone": "slate",
+    "images": [
+      "/images/products/platinum-and-diamond-band-1.svg",
+      "/images/products/platinum-and-diamond-band-2.svg",
+      "/images/products/platinum-and-diamond-band-3.svg"
+    ],
+    "isNew": true
+  },
+  {
+    "sku": "PJ-GO-001",
+    "slug": "classic-gold-chain",
+    "name": "Classic Gold Chain",
+    "collection": "gold",
+    "category": "chain",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "everyday",
+      "gifting"
+    ],
+    "grossWeight": 24.3,
+    "netWeight": 24.2,
+    "stones": "None",
+    "certification": "BIS hallmarked",
+    "description": "A flat-link chain with a mirror polish and a strong lobster clasp. 20 inches as shown; other lengths on request.",
+    "motif": "chain",
+    "tone": "gold",
+    "images": [
+      "/images/products/classic-gold-chain-1.svg",
+      "/images/products/classic-gold-chain-2.svg",
+      "/images/products/classic-gold-chain-3.svg"
+    ],
+    "approxPrice": 300000
+  },
+  {
+    "sku": "PJ-GO-002",
+    "slug": "plain-gold-bangles-set-of-four",
+    "name": "Plain Gold Bangles, Set of Four",
+    "collection": "gold",
+    "category": "bangles",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "festive",
+      "wedding",
+      "everyday"
+    ],
+    "grossWeight": 52,
+    "netWeight": 51.6,
+    "stones": "None",
+    "certification": "BIS hallmarked",
+    "description": "Four smooth round bangles with a hand-finished edge. Wear them together or stack them with a patterned pair.",
+    "motif": "bangles",
+    "tone": "gold",
+    "images": [
+      "/images/products/plain-gold-bangles-set-of-four-1.svg",
+      "/images/products/plain-gold-bangles-set-of-four-2.svg",
+      "/images/products/plain-gold-bangles-set-of-four-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-GO-003",
+    "slug": "lakshmi-ji-coin-pendant",
+    "name": "Lakshmi Ji Coin Pendant",
+    "collection": "gold",
+    "category": "pendant",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "festive",
+      "gifting"
+    ],
+    "grossWeight": 8.2,
+    "netWeight": 8.1,
+    "stones": "None",
+    "certification": "BIS hallmarked",
+    "description": "A struck gold coin pendant with Lakshmi seated on a lotus, on a soft rope bail. A natural Dhanteras gift.",
+    "motif": "coin-pendant",
+    "tone": "gold",
+    "images": [
+      "/images/products/lakshmi-ji-coin-pendant-1.svg",
+      "/images/products/lakshmi-ji-coin-pendant-2.svg",
+      "/images/products/lakshmi-ji-coin-pendant-3.svg"
+    ],
+    "approxPrice": 105000
+  },
+  {
+    "sku": "PJ-GO-004",
+    "slug": "daily-wear-jhumki",
+    "name": "Daily Wear Jhumki",
+    "collection": "gold",
+    "category": "earrings",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "everyday",
+      "festive"
+    ],
+    "grossWeight": 6.4,
+    "netWeight": 6.2,
+    "stones": "None",
+    "certification": "BIS hallmarked",
+    "description": "Small, light jhumkis with a filigree dome. Designed for people who put their earrings on in the morning and forget them.",
+    "motif": "jhumka",
+    "tone": "gold",
+    "images": [
+      "/images/products/daily-wear-jhumki-1.svg",
+      "/images/products/daily-wear-jhumki-2.svg",
+      "/images/products/daily-wear-jhumki-3.svg"
+    ],
+    "approxPrice": 82000
+  },
+  {
+    "sku": "PJ-GO-005",
+    "slug": "textured-gold-band-ring",
+    "name": "Textured Gold Band Ring",
+    "collection": "gold",
+    "category": "ring",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "everyday",
+      "gifting"
+    ],
+    "grossWeight": 7.6,
+    "netWeight": 7.5,
+    "stones": "None",
+    "certification": "BIS hallmarked",
+    "description": "A broad band with a hand-hammered finish. Unisex, durable and easy to resize.",
+    "motif": "band",
+    "tone": "gold",
+    "images": [
+      "/images/products/textured-gold-band-ring-1.svg",
+      "/images/products/textured-gold-band-ring-2.svg",
+      "/images/products/textured-gold-band-ring-3.svg"
+    ],
+    "isNew": true
+  },
+  {
+    "sku": "PJ-PK-001",
+    "slug": "kundan-choker-set-with-meenakari-back",
+    "name": "Kundan Choker Set with Meenakari Back",
+    "collection": "polki-kundan",
+    "category": "set",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding",
+      "festive"
+    ],
+    "grossWeight": 78.5,
+    "netWeight": 61.2,
+    "stones": "Kundan, emerald-green beads, pearls",
+    "certification": "Hallmarked [CONFIRM WITH CLIENT]",
+    "description": "A kundan choker with matching earrings. The front is set with glass-clear kundan and the back is hand-enamelled in pink and green.",
+    "motif": "choker",
+    "tone": "green",
+    "images": [
+      "/images/products/kundan-choker-set-with-meenakari-back-1.svg",
+      "/images/products/kundan-choker-set-with-meenakari-back-2.svg",
+      "/images/products/kundan-choker-set-with-meenakari-back-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-PK-002",
+    "slug": "polki-chandbali-earrings",
+    "name": "Polki Chandbali Earrings",
+    "collection": "polki-kundan",
+    "category": "earrings",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding",
+      "festive"
+    ],
+    "grossWeight": 22.4,
+    "netWeight": 17.8,
+    "stones": "Uncut polki diamonds, pearl drops",
+    "certification": "Polki certification [CONFIRM WITH CLIENT]",
+    "description": "Crescent-shaped chandbalis set with uncut polki and finished with pearl drops. They catch the light softly, like candle glow.",
+    "motif": "jhumka",
+    "tone": "green",
+    "images": [
+      "/images/products/polki-chandbali-earrings-1.svg",
+      "/images/products/polki-chandbali-earrings-2.svg",
+      "/images/products/polki-chandbali-earrings-3.svg"
+    ],
+    "isNew": true
+  },
+  {
+    "sku": "PJ-PK-003",
+    "slug": "kundan-meenakari-bangles-pair",
+    "name": "Kundan Meenakari Bangles, Pair",
+    "collection": "polki-kundan",
+    "category": "bangles",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding",
+      "festive"
+    ],
+    "grossWeight": 58.4,
+    "netWeight": 46,
+    "stones": "Kundan, enamel",
+    "certification": "Hallmarked [CONFIRM WITH CLIENT]",
+    "description": "A pair of kundan bangles with enamelled backs, made on a gold base. Ask us about matching sizes for the whole family.",
+    "motif": "kada",
+    "tone": "green",
+    "images": [
+      "/images/products/kundan-meenakari-bangles-pair-1.svg",
+      "/images/products/kundan-meenakari-bangles-pair-2.svg",
+      "/images/products/kundan-meenakari-bangles-pair-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-PK-004",
+    "slug": "polki-long-haar",
+    "name": "Polki Long Haar",
+    "collection": "polki-kundan",
+    "category": "necklace",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding"
+    ],
+    "grossWeight": 92.6,
+    "netWeight": 70.1,
+    "stones": "Uncut polki diamonds, emerald drops",
+    "certification": "Polki certification [CONFIRM WITH CLIENT]",
+    "description": "A long haar with polki medallions linked by gold beads and finished with emerald drops. A signature piece for the main wedding day.",
+    "motif": "haar",
+    "tone": "green",
+    "images": [
+      "/images/products/polki-long-haar-1.svg",
+      "/images/products/polki-long-haar-2.svg",
+      "/images/products/polki-long-haar-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-SI-001",
+    "slug": "silver-payal-with-ghungroo-pair",
+    "name": "Silver Payal with Ghungroo, Pair",
+    "collection": "silver",
+    "category": "anklet",
+    "metal": "silver",
+    "purity": "925",
+    "occasions": [
+      "everyday",
+      "festive",
+      "gifting"
+    ],
+    "grossWeight": 48,
+    "netWeight": 48,
+    "stones": "None",
+    "certification": "925 hallmark [CONFIRM WITH CLIENT]",
+    "description": "Sterling silver anklets with tiny bells and a secure box clasp. Sold as a pair.",
+    "motif": "payal",
+    "tone": "slate",
+    "images": [
+      "/images/products/silver-payal-with-ghungroo-pair-1.svg",
+      "/images/products/silver-payal-with-ghungroo-pair-2.svg",
+      "/images/products/silver-payal-with-ghungroo-pair-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-SI-002",
+    "slug": "lakshmi-ganesh-silver-coin-50-g",
+    "name": "Lakshmi Ganesh Silver Coin, 50 g",
+    "collection": "silver",
+    "category": "other",
+    "metal": "silver",
+    "purity": "999",
+    "occasions": [
+      "festive",
+      "gifting"
+    ],
+    "grossWeight": 50,
+    "netWeight": 50,
+    "stones": "None",
+    "certification": "999 fine silver [CONFIRM WITH CLIENT]",
+    "description": "A 50 g fine-silver coin with Lakshmi and Ganesh on one side. Comes in a gift box. Popular at Diwali.",
+    "motif": "coin",
+    "tone": "slate",
+    "images": [
+      "/images/products/lakshmi-ganesh-silver-coin-50-g-1.svg",
+      "/images/products/lakshmi-ganesh-silver-coin-50-g-2.svg",
+      "/images/products/lakshmi-ganesh-silver-coin-50-g-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-SI-003",
+    "slug": "oxidised-silver-bracelet",
+    "name": "Oxidised Silver Bracelet",
+    "collection": "silver",
+    "category": "bracelet",
+    "metal": "silver",
+    "purity": "925",
+    "occasions": [
+      "everyday",
+      "gifting"
+    ],
+    "grossWeight": 28,
+    "netWeight": 28,
+    "stones": "None",
+    "certification": "925 hallmark [CONFIRM WITH CLIENT]",
+    "description": "A hand-oxidised bracelet with a traditional jaali pattern. Adjustable, and easy to wear with western and Indian outfits.",
+    "motif": "bracelet-charm",
+    "tone": "slate",
+    "images": [
+      "/images/products/oxidised-silver-bracelet-1.svg",
+      "/images/products/oxidised-silver-bracelet-2.svg",
+      "/images/products/oxidised-silver-bracelet-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-ME-001",
+    "slug": "heavy-curb-chain",
+    "name": "Heavy Curb Chain",
+    "collection": "mens",
+    "category": "chain",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "everyday",
+      "wedding",
+      "gifting"
+    ],
+    "grossWeight": 45.6,
+    "netWeight": 45.4,
+    "stones": "None",
+    "certification": "BIS hallmarked",
+    "description": "A solid curb chain with a high polish and a lock-in clasp. Heavy enough to feel, even under a shirt.",
+    "motif": "chain",
+    "tone": "ink",
+    "images": [
+      "/images/products/heavy-curb-chain-1.svg",
+      "/images/products/heavy-curb-chain-2.svg",
+      "/images/products/heavy-curb-chain-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-ME-002",
+    "slug": "men-s-kada-brushed-finish",
+    "name": "Men's Kada, Brushed Finish",
+    "collection": "mens",
+    "category": "bangles",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "wedding",
+      "gifting"
+    ],
+    "grossWeight": 38,
+    "netWeight": 37.8,
+    "stones": "None",
+    "certification": "BIS hallmarked",
+    "description": "A thick, open kada in a matte brushed finish. A groom's piece that works just as well every day.",
+    "motif": "kada",
+    "tone": "ink",
+    "images": [
+      "/images/products/men-s-kada-brushed-finish-1.svg",
+      "/images/products/men-s-kada-brushed-finish-2.svg",
+      "/images/products/men-s-kada-brushed-finish-3.svg"
+    ],
+    "isNew": true
+  },
+  {
+    "sku": "PJ-ME-003",
+    "slug": "men-s-signet-ring",
+    "name": "Men's Signet Ring",
+    "collection": "mens",
+    "category": "ring",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "everyday",
+      "gifting"
+    ],
+    "grossWeight": 14.2,
+    "netWeight": 12.9,
+    "stones": "Black onyx inlay",
+    "certification": "BIS hallmarked",
+    "description": "A square signet ring with a black onyx inlay and a plain gold shoulder. Engraving available on request.",
+    "motif": "signet",
+    "tone": "ink",
+    "images": [
+      "/images/products/men-s-signet-ring-1.svg",
+      "/images/products/men-s-signet-ring-2.svg",
+      "/images/products/men-s-signet-ring-3.svg"
+    ]
+  },
+  {
+    "sku": "PJ-KI-001",
+    "slug": "baby-bangles-with-screw-closure-pair",
+    "name": "Baby Bangles with Screw Closure, Pair",
+    "collection": "kids",
+    "category": "bangles",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "gifting",
+      "festive"
+    ],
+    "grossWeight": 6.8,
+    "netWeight": 6.8,
+    "stones": "None",
+    "certification": "BIS hallmarked",
+    "description": "Smooth, light bangles with a screw closure so they cannot slip off. A common gift for a naming ceremony or annaprashan.",
+    "motif": "baby-bangles",
+    "tone": "rose",
+    "images": [
+      "/images/products/baby-bangles-with-screw-closure-pair-1.svg",
+      "/images/products/baby-bangles-with-screw-closure-pair-2.svg",
+      "/images/products/baby-bangles-with-screw-closure-pair-3.svg"
+    ],
+    "approxPrice": 85000
+  },
+  {
+    "sku": "PJ-KI-002",
+    "slug": "nazariya-charm-bracelet",
+    "name": "Nazariya Charm Bracelet",
+    "collection": "kids",
+    "category": "bracelet",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "gifting"
+    ],
+    "grossWeight": 3.4,
+    "netWeight": 3.2,
+    "stones": "Black glass bead",
+    "certification": "BIS hallmarked",
+    "description": "A tiny bracelet with a black bead and a gold charm against the evil eye. Soft edges, tested for fit on small wrists.",
+    "motif": "bracelet-charm",
+    "tone": "rose",
+    "images": [
+      "/images/products/nazariya-charm-bracelet-1.svg",
+      "/images/products/nazariya-charm-bracelet-2.svg",
+      "/images/products/nazariya-charm-bracelet-3.svg"
+    ],
+    "isNew": true
+  },
+  {
+    "sku": "PJ-KI-003",
+    "slug": "little-lakshmi-pendant-with-chain",
+    "name": "Little Lakshmi Pendant with Chain",
+    "collection": "kids",
+    "category": "pendant",
+    "metal": "gold",
+    "purity": "22K",
+    "occasions": [
+      "gifting",
+      "festive"
+    ],
+    "grossWeight": 2.6,
+    "netWeight": 2.5,
+    "stones": "None",
+    "certification": "BIS hallmarked",
+    "description": "A small Lakshmi pendant on a short, safe chain. A first piece of gold to keep for years.",
+    "motif": "coin-pendant",
+    "tone": "rose",
+    "images": [
+      "/images/products/little-lakshmi-pendant-with-chain-1.svg",
+      "/images/products/little-lakshmi-pendant-with-chain-2.svg",
+      "/images/products/little-lakshmi-pendant-with-chain-3.svg"
+    ],
+    "approxPrice": 32000
+  }
+]

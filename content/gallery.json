@@ -1,0 +1,8 @@
+[
+  { "image": "/images/gallery/g1.svg", "alt": "Placeholder: bridal haar laid on maroon velvet", "tone": "maroon", "motif": "haar", "caption": "A bridal haar before it leaves the workshop" },
+  { "image": "/images/gallery/g2.svg", "alt": "Placeholder: pair of gold jhumkas on ivory silk", "tone": "gold", "motif": "jhumka", "caption": "Jhumkas for the sangeet" },
+  { "image": "/images/gallery/g3.svg", "alt": "Placeholder: solitaire ring in a dark box", "tone": "ink", "motif": "ring-solitaire", "caption": "An engagement ring, ready for its box" },
+  { "image": "/images/gallery/g4.svg", "alt": "Placeholder: kundan choker on green velvet", "tone": "green", "motif": "choker", "caption": "Kundan, hand-set" },
+  { "image": "/images/gallery/g5.svg", "alt": "Placeholder: stack of gold bangles", "tone": "gold", "motif": "bangles", "caption": "Gold bangles, stacked" },
+  { "image": "/images/gallery/g6.svg", "alt": "Placeholder: small gold bracelet for a baby", "tone": "rose", "motif": "baby-bangles", "caption": "A first piece of gold" }
+]

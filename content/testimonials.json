@@ -1,0 +1,31 @@
+[
+  {
+    "_note": "SAMPLE TESTIMONIALS written for the mockup. [CONFIRM WITH CLIENT] Replace with real customer words and get permission to use names.",
+    "id": "t1",
+    "name": "Hetal S.",
+    "context": "Bride, Satellite",
+    "quote": "My mother and both aunts came with me and nobody felt rushed. They laid out three haars side by side and let us argue about it over chai. We left with the one we all agreed on.",
+    "rating": 5
+  },
+  {
+    "id": "t2",
+    "name": "Rakesh P.",
+    "context": "Groom's father, Navrangpura",
+    "quote": "Weights, hallmark, rate: everything was written down and explained before I asked. After thirty years of buying gold, that is what I look for.",
+    "rating": 5
+  },
+  {
+    "id": "t3",
+    "name": "Nidhi & Karan",
+    "context": "Engagement, Bopal",
+    "quote": "We wanted a solitaire that was simple and came with a proper certificate. They showed us three, explained the difference without any pressure, and the ring was ready before the date.",
+    "rating": 5
+  },
+  {
+    "id": "t4",
+    "name": "Jyotsna Ben",
+    "context": "Returning customer, Maninagar",
+    "quote": "I exchanged my mother's old necklace for a new set. They weighed it in front of me and showed the calculation on paper. That is why I come back.",
+    "rating": 5
+  }
+]

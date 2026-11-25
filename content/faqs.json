@@ -1,0 +1,47 @@
+[
+  {
+    "id": "hallmark",
+    "q": "What does BIS hallmarking mean, and is my jewellery hallmarked?",
+    "a": "A BIS hallmark is a government-backed mark that tells you the purity of the gold in a piece. Each hallmarked piece carries the BIS mark, the purity grade (for example 22K916) and a six-character alphanumeric HUID that you can verify with the BIS Care app. Our gold jewellery is hallmarked and the HUID is noted on your invoice. [CONFIRM WITH CLIENT: BIS licence number and HUID process]"
+  },
+  {
+    "id": "rate",
+    "q": "Which gold rate will I be charged?",
+    "a": "You pay the rate on the day you buy, shown on this page and at the store. For large orders such as bridal sets, we can discuss locking the rate with an advance. [CONFIRM WITH CLIENT: rate-lock policy]"
+  },
+  {
+    "id": "making",
+    "q": "What are making charges, and how are they shown?",
+    "a": "Making charges cover the craftsmanship and vary by design: plain chains cost less to make than hand-set polki. We write down the gold weight, the rate, the making charges and GST as separate lines on every bill, so you can see exactly what you are paying for. [CONFIRM WITH CLIENT: making-charge structure]"
+  },
+  {
+    "id": "exchange",
+    "q": "Can I exchange my old jewellery for something new?",
+    "a": "Yes. We weigh your old piece in front of you, test its purity, and give you value at that day's rate, which you can apply to a new purchase. Stones and any wastage deductions are explained on paper before you decide. [CONFIRM WITH CLIENT: exchange terms and any deductions]"
+  },
+  {
+    "id": "buyback",
+    "q": "Do you buy back jewellery you sold me?",
+    "a": "Yes. Bring the piece and your invoice, and we will quote a buyback value based on that day's gold rate and the piece's purity. Buyback is for pieces purchased from us; our team can also evaluate other jewellery. [CONFIRM WITH CLIENT: buyback policy, percentage and conditions]"
+  },
+  {
+    "id": "diamond",
+    "q": "Are your diamonds certified?",
+    "a": "Our solitaires and larger diamonds come with an independent grading report from IGI or GIA, and the report number is noted on the invoice. Smaller diamonds in everyday pieces are matched and graded in-house and described on your bill. [CONFIRM WITH CLIENT: certification practice]"
+  },
+  {
+    "id": "custom",
+    "q": "How does a custom or bridal order work?",
+    "a": "We start with a conversation: the occasion, your outfit, the budget and any family pieces you want to reuse. Then we sketch, agree the weights and design in writing, make the piece and invite you for a final fitting. Most custom pieces take three to six weeks; a full bridal set may take longer. [CONFIRM WITH CLIENT: timelines]"
+  },
+  {
+    "id": "gst",
+    "q": "Do you give a proper GST bill?",
+    "a": "Yes. Every purchase comes with a GST-compliant invoice that lists the weight, purity, rate, making charges and tax. [CONFIRM WITH CLIENT: GSTIN and invoicing practice]"
+  },
+  {
+    "id": "resize",
+    "q": "Can rings and bangles be resized after purchase?",
+    "a": "Usually, yes. We resize rings and many bangles at no charge for a limited period after purchase. Rigid designs and stone-set bangles may need a remake. [CONFIRM WITH CLIENT: resizing and after-sales policy]"
+  }
+]

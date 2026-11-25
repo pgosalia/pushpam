@@ -1,0 +1,53 @@
+{
+  "_note": "Business details used across the site. Every value marked [CONFIRM WITH CLIENT] is a placeholder.",
+  "name": "Pushpam Jewellers",
+  "shortName": "Pushpam",
+  "tagline": "Gold, diamond and bridal jewellery in Ahmedabad",
+  "established": 1987,
+  "establishedNote": "[CONFIRM WITH CLIENT] year established",
+  "phone": "+91 98250 00000",
+  "phoneNote": "[CONFIRM WITH CLIENT]",
+  "whatsapp": "919825000000",
+  "whatsappNote": "[CONFIRM WITH CLIENT] digits only, with country code, no plus sign",
+  "email": "hello@pushpamjewellers.example",
+  "address": {
+    "line1": "Shop 12, Ratan Pol",
+    "line2": "Manek Chowk",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "postalCode": "380001",
+    "country": "IN",
+    "note": "[CONFIRM WITH CLIENT] full street address and pincode"
+  },
+  "geo": { "lat": 23.0258, "lng": 72.5873, "note": "[CONFIRM WITH CLIENT] approximate coordinates of Ratan Pol" },
+  "mapQuery": "Ratan Pol, Manek Chowk, Ahmedabad, Gujarat 380001",
+  "mapLink": "https://www.google.com/maps/search/?api=1&query=Ratan+Pol+Manek+Chowk+Ahmedabad",
+  "hours": [
+    { "days": "Monday to Saturday", "daysShort": ["Mo", "Tu", "We", "Th", "Fr", "Sa"], "open": "10:30", "close": "20:30" },
+    { "days": "Sunday", "daysShort": ["Su"], "open": "11:00", "close": "19:00" }
+  ],
+  "hoursNote": "[CONFIRM WITH CLIENT] opening hours, weekly off and festival-day hours",
+  "social": {
+    "instagram": "https://www.instagram.com/pushpamjewellers",
+    "instagramHandle": "@pushpamjewellers",
+    "facebook": "",
+    "youtube": ""
+  },
+  "social_note": "[CONFIRM WITH CLIENT] social handles",
+  "certifications": {
+    "bis": "BIS Hallmarked gold jewellery [CONFIRM WITH CLIENT: BIS licence / HUID registration]",
+    "diamonds": "IGI / GIA certified diamonds on request [CONFIRM WITH CLIENT: which labs]",
+    "gst": "GST-compliant billing on every purchase [CONFIRM WITH CLIENT: GSTIN]"
+  },
+  "gstin": "[CONFIRM WITH CLIENT]",
+  "announcements": {
+    "_note": "The bar shows the first campaign whose dates include today, else the one marked default. Set enabled to false to hide the bar. Festival dates change every year: [CONFIRM WITH CLIENT].",
+    "enabled": true,
+    "campaigns": [
+      { "id": "dhanteras", "from": "2026-10-28", "to": "2026-11-07", "href": "/collections/gold/" },
+      { "id": "akshaya-tritiya", "from": "2027-04-04", "to": "2027-04-11", "href": "/collections/gold/" },
+      { "id": "wedding-season", "default": true, "from": "2026-11-15", "to": "2027-02-28", "href": "/bridal/" }
+    ]
+  },
+  "priceDisclaimer": "Indicative prices only. Final price depends on the day's gold rate, making charges and GST."
+}

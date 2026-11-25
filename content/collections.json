@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "bridal",
+    "tone": "maroon",
+    "image": "/images/collections/bridal.svg",
+    "alt": "Placeholder: a bridal necklace set in gold with ruby and emerald drops on maroon velvet",
+    "heading": "Bridal",
+    "blurb": "Rani haars, temple sets, nath and maang tikka. The pieces a family remembers for generations.",
+    "intro": "A bride is dressed in stages: the haar first, then the earrings, the tikka, the bangles. Our bridal sets are planned that way, so every piece sits well with the next and with the outfit you have chosen."
+  },
+  {
+    "slug": "diamond",
+    "tone": "ink",
+    "image": "/images/collections/diamond.svg",
+    "alt": "Placeholder: a solitaire diamond ring drawn in fine gold line on charcoal velvet",
+    "heading": "Diamond",
+    "blurb": "Solitaires, tennis bracelets and everyday studs. Certified stones, set in 18K and 22K.",
+    "intro": "Every diamond we sell is graded and set by hand. Larger stones come with an IGI or GIA report so you know exactly what you are buying. [CONFIRM WITH CLIENT]"
+  },
+  {
+    "slug": "gold",
+    "tone": "gold",
+    "image": "/images/collections/gold.svg",
+    "alt": "Placeholder: a stack of plain 22K gold bangles on warm ochre velvet",
+    "heading": "Gold",
+    "blurb": "22K chains, bangles, rings and everyday pieces in classic Gujarati patterns.",
+    "intro": "Plain gold has nowhere to hide, which is why we are particular about it: even polish, honest weight, a clasp that closes with a click. BIS hallmarked. [CONFIRM WITH CLIENT]"
+  },
+  {
+    "slug": "polki-kundan",
+    "tone": "green",
+    "image": "/images/collections/polki-kundan.svg",
+    "alt": "Placeholder: a kundan choker with emerald-green beads on bottle-green velvet",
+    "heading": "Polki & Kundan",
+    "blurb": "Uncut diamonds and hand-set kundan with meenakari backs. Rajasthani craft, Ahmedabad finish.",
+    "intro": "Polki and kundan are slow work. Each stone is set in gold foil by hand and the back is enamelled by a second artisan. Expect a few weeks, and a piece that looks different from every angle."
+  },
+  {
+    "slug": "silver",
+    "tone": "slate",
+    "image": "/images/collections/silver.svg",
+    "alt": "Placeholder: a pair of silver payal anklets on slate-blue velvet",
+    "heading": "Silver",
+    "blurb": "Payals, pooja articles and gifting silver. 925 sterling and fine silver.",
+    "intro": "Silver is for gifting, for the mandir and for the little ones. We stock sterling jewellery and fine-silver pooja articles in good weights. [CONFIRM WITH CLIENT]"
+  },
+  {
+    "slug": "mens",
+    "tone": "ink",
+    "image": "/images/collections/mens.svg",
+    "alt": "Placeholder: a heavy gold curb chain and kada on dark charcoal velvet",
+    "heading": "Men's",
+    "blurb": "Chains, kadas, rings and groom's sets. Solid, understated, made to be worn daily.",
+    "intro": "For the groom, the father, the brother. Heavy chains, kadas and signet rings with a proper weight in the hand."
+  },
+  {
+    "slug": "kids",
+    "tone": "rose",
+    "image": "/images/collections/kids.svg",
+    "alt": "Placeholder: tiny gold baby bangles and a nazariya charm on dusty rose velvet",
+    "heading": "Kids",
+    "blurb": "Baby bangles, nazariya charms and first-gold gifts for naming and annaprashan ceremonies.",
+    "intro": "A first piece of gold, small and safe. Smooth edges, screw closures, light weights, and a nazariya charm to keep the evil eye away."
+  }
+]
